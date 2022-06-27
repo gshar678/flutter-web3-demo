@@ -7,6 +7,4 @@ Setup:
 - Copy and replace assets, lib folder and pubspec.yaml files from the repo to this new Flutter App
 - Set myAddress and key credentials in the homepage.dart file and then run the command
   
-  flutter run 
-	or
   flutter run --no-sound-null-safety
