@@ -1,16 +1,12 @@
-# hello_world
+# Flutter-web3-voting-app-demo
 
-A new Flutter project.
+This flutter web3 demo dApp is based on the article: https://blog.logrocket.com/building-dapp-flutter-solidity/
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Setup:
+- Create a new flutter project by running, flutter create <app-name>
+- Copy and replace assets, lib folder and pubspec.yaml files from the repo to this new Flutter App
+- Set myAddress and key credentials in the homepage.dart file and then run the command
+  
+  flutter run 
+	or
+  flutter run --no-sound-null-safety
