@@ -1,4 +1,4 @@
-# Flutter-web3-voting-app-demo
+# Flutter-web3-demo
 
 This Flutter web3 demo dApp is based on the article: https://blog.logrocket.com/building-dapp-flutter-solidity/
 
