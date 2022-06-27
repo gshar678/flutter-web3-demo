@@ -6,5 +6,5 @@ Setup:
 
 - Set myAddress and key credentials in the homepage.dart file and then run these commands.
 
-cd hello_world
-flutter run --no-sound-null-safety
+- cd hello_world
+- flutter run --no-sound-null-safety
